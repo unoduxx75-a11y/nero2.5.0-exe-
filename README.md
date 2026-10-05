@@ -1,14 +1,27 @@
-# NERO Studio v2.5.0 💻🎬
+# NERO Studio v2.5.0
 
-Official desktop executable releases for **NERO Studio**, a high-performance video encoder and converter developed by **Uno (unoduxx75-a11y)**. 
+Official desktop executable releases for NERO Studio, created by Uno (`unoduxx75-a11y`).
 
-Inspired by professional tools like Shutter Encoder, NERO Studio is optimized to compress and convert video files efficiently **without losing original video quality**.
+This project is built for video conversion, compression, and optimization workflows. It focuses on maintaining strong quality while reducing file size and improving processing speed for everyday desktop use.
 
-## 🚀 Key Features
-* **Lossless Compression:** Reduce video file sizes while keeping crystal-clear quality.
-* **Fast Video Encoding:** Optimized processing speeds for desktop systems.
-* **Lightweight Utility:** Clean background resource management and minimal file size.
-* **many thing have 👇
+## Features
+- Fast video conversion
+- Efficient compression workflows
+- Lightweight desktop utility
+- Clean and simple user experience
+- Optimized for practical file-size reduction without sacrificing quality
 
-## 📥 Installation & Usage
-Go to the **Releases** section on the right side of this repository to download the latest workable `NERO Studio v2.5.0` executable.
+## What this repo contains
+- Official release builds
+- Downloadable executable files
+- Project updates and version notes
+
+## Download
+Go to the Releases tab on the right side of this page to download the latest working executable for NERO Studio v2.5.0.
+
+## Notes
+This repository is intended for distribution of official executable releases. Use the latest version available in Releases for the most recent build.
+
+---
+
+Made with ❤️ by Uno.
